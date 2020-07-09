@@ -1,0 +1,66 @@
+[
+    {
+      "meal": "Pilos Lidl - mleko świeże 2,0%, 100 ml",
+      "calories": "50",
+      "carbs": "4,8",
+      "fats": "2",
+      "protein": "3,3",
+      "id": 0
+    },
+    {
+      "meal": "Gorskie - Owsianka, 100 g",
+      "calories": "366",
+      "carbs": "62",
+      "fats": "7,2",
+      "protein": "12",
+      "id": 1
+    },
+    {
+      "meal": "Domowe Pierogi - Pierogi Z Miesem, 100g",
+      "calories": "205",
+      "carbs": "17,1",
+      "fats": "10,1",
+      "protein": "11,9",
+      "id": 2
+    },
+    {
+      "meal": "Placki Ziemniaczane, 100g",
+      "calories": "231",
+      "carbs": "21,8",
+      "fats": "14,5",
+      "protein": "4",
+      "id": 3
+    },
+    {
+      "meal": "Baltonowski - Chleb, 100 g",
+      "calories": "238",
+      "carbs": "50",
+      "fats": "1,2",
+      "protein": "6,2",
+      "id": 4
+    },
+    {
+      "meal": "Karkówka Pieczona, 100g",
+      "calories": "389",
+      "carbs": "0",
+      "fats": "33",
+      "protein": "23",
+      "id": 5
+    },
+    {
+      "meal": "Udko z kurczaka (pieczone), 100g",
+      "calories": "229",
+      "carbs": "0",
+      "fats": "10,2",
+      "protein": "16,8",
+      "id": 6
+    },
+    {
+      "meal": "Schab pieczony, 100g",
+      "calories": "291",
+      "carbs": "0,7",
+      "fats": "18,7",
+      "protein": "30,2",
+      "id": 7
+    }
+  ]

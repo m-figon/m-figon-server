@@ -1,0 +1,192 @@
+[
+	{
+		"type": "tops",
+		"content": [
+			{
+				"name": "White Plain T-Shirt",
+				"price": 20.99,
+				"discount": 0.00,
+				"img": "https://www.bolf.eu/eng_pl_Womens-Plain-T-shirt-White-Bolf-88002-73219_1.jpg",
+				"id":0
+			},
+			{
+				"name": "Blue Plain T-Shirt",
+				"price": 20.99,
+				"discount": 5.00,
+				"img": "https://www.bolf.eu/eng_pl_Womens-Plain-T-shirt-Navy-Blue-Bolf-88002-73220_1.jpg",
+				"id":1
+			},
+			{
+				"name": "Light Gray Plain T-Shirt",
+				"price": 20.99,
+				"discount": 5.00,
+				"img": "https://www.bolf.eu/eng_pl_Womens-Plain-T-shirt-Grey-Bolf-88002-73221_1.jpg",
+				"id":2
+			},
+			{
+				"name": "Gray Plain T-Shirt",
+				"price": 20.99,
+				"discount": 0.00,
+				"img": "https://www.bolf.eu/eng_pl_Womens-Plain-T-shirt-Graphite-Bolf-88002-73222_1.jpg",
+				"id":3
+			},
+			{
+				"name": "White Plain T-Shirt",
+				"price": 20.99,
+				"discount": 0.00,
+				"img": "https://www.bolf.eu/eng_pl_Womens-Plain-T-shirt-White-Bolf-88002-73219_1.jpg",
+				"id":4
+			},
+			{
+				"name": "Blue Plain T-Shirt",
+				"price": 20.99,
+				"discount": 5.00,
+				"img": "https://www.bolf.eu/eng_pl_Womens-Plain-T-shirt-Navy-Blue-Bolf-88002-73220_1.jpg",
+				"id":5
+			},
+			{
+				"name": "Light Gray Plain T-Shirt",
+				"price": 20.99,
+				"discount": 5.00,
+				"img": "https://www.bolf.eu/eng_pl_Womens-Plain-T-shirt-Grey-Bolf-88002-73221_1.jpg",
+				"id":6
+			},
+			{
+				"name": "Gray Plain T-Shirt",
+				"price": 20.99,
+				"discount": 0.00,
+				"img": "https://www.bolf.eu/eng_pl_Womens-Plain-T-shirt-Graphite-Bolf-88002-73222_1.jpg",
+				"id":7
+			}
+			
+		],
+		"id":0
+		
+	},
+	{
+		"type": "pants",
+		"content": [
+			{
+				"name": "White Jeans",
+				"price": 120.99,
+				"discount": 20.00,
+				"img": "https://www.bolf.eu/eng_pl_Womens-Jeans-Boyfriend-Fit-White-Bolf-DM9597-79197_1.jpg",
+				"id":0
+			},
+			{
+				"name": "Classic Jeans With a Hole",
+				"price": 110.99,
+				"discount": 15.00,
+				"img": "https://www.bolf.eu/eng_pl_Womens-Jeans-Skinny-Fit-Blue-Bolf-S3561-79195_1.jpg",
+				"id":1
+			},
+			{
+				"name": "Classic Jeans",
+				"price": 90.99,
+				"discount": 0.00,
+				"img": "https://www.bolf.eu/eng_pl_Womens-Jeans-Skinny-Fit-Blue-Bolf-S3738-1-79196_1.jpg",
+				"id":2
+			},
+			{
+				"name": "Skinny Jeans",
+				"price": 120.99,
+				"discount": 0.00,
+				"img": "https://www.bolf.eu/eng_pl_Womens-Jeans-Push-Up-Blue-Bolf-S3687-79191_1.jpg",
+				"id":3
+			},
+			{
+				"name": "Modern Blue Jeans",
+				"price": 120.99,
+				"discount": 20.00,
+				"img": "https://www.bolf.eu/eng_pl_Womens-Jeans-Boyfriend-Fit-Blue-Bolf-DM9658-79187_1.jpg",
+				"id":4
+			},
+			{
+				"name": "Blue Jeans With a Hole",
+				"price": 110.99,
+				"discount": 15.00,
+				"img": "https://www.bolf.eu/eng_pl_Womens-Jeans-Boyfriend-Fit-Blue-Bolf-DM9596-79186_1.jpg",
+				"id":5
+			},
+			{
+				"name": "Classic Joggers",
+				"price": 90.99,
+				"discount": 0.00,
+				"img": "https://www.bolf.eu/eng_pl_Womens-Jeans-Push-Up-Blue-Bolf-S3750-1-79192_1.jpg",
+				"id":6
+			},
+			{
+				"name": "Color Jeans",
+				"price": 120.99,
+				"discount": 0.00,
+				"img": "https://www.bolf.eu/eng_pl_Womens-Jeans-Boyfriend-Fit-Blue-Bolf-DM9508-79184_1.jpg",
+				"id":7
+			}
+		],
+		"id":1
+		
+	},
+	{
+		"type": "sweatshirts",
+		"content": [
+			{
+				"name": "Yellow Hoodie",
+				"price": 150.99,
+				"discount": 0,
+				"img": "https://www.bolf.eu/eng_pl_Womens-Sweatshirt-Yellow-Neon-Bolf-W02-78526_1.jpg",
+				"id":0
+			},
+			{
+				"name": "Red Hoodie",
+				"price": 110.99,
+				"discount": 15,
+				"img": "https://www.bolf.eu/eng_pl_Womens-Sweatshirt-Dark-Red-Bolf-W02-78525_2.jpg",
+				"id":1
+			},
+			{
+				"name": "Purple Hoodie",
+				"price": 190.99,
+				"discount": 30,
+				"img": "https://www.bolf.eu/eng_pl_Womens-Sweatshirt-Violet-Bolf-W02-78523_1.jpg",
+				"id":2
+			},
+			{
+				"name": "Gray Hoodie",
+				"price": 120.99,
+				"discount": 0,
+				"img": "https://www.bolf.eu/eng_pl_Womens-Sweatshirt-Graphite-Bolf-W02-70724_6.jpg",
+				"id":3
+			},
+			{
+				"name": "Khaki Hoodie",
+				"price": 150.99,
+				"discount": 0,
+				"img": "https://www.bolf.eu/eng_pl_Womens-Sweatshirt-Khaki-Bolf-W02-69471_2.jpg",
+				"id":4
+			},
+			{
+				"name": "Light Gray Hoodie",
+				"price": 110.99,
+				"discount": 15,
+				"img": "https://www.bolf.eu/eng_pl_Womens-Sweatshirt-Grey-Bolf-W02-69468_1.jpg",
+				"id":5
+			},
+			{
+				"name": "Black Hoodie",
+				"price": 190.99,
+				"discount": 30,
+				"img": "https://www.bolf.eu/eng_pl_Womens-Sweatshirt-Black-Bolf-W02-69470_1.jpg",
+				"id":6
+			},
+			{
+				"name": "Cobalt Hoodie",
+				"price": 120.99,
+				"discount": 0,
+				"img": "https://www.bolf.eu/eng_pl_Womens-Sweatshirt-Cobalt-Bolf-W02-69465_1.jpg",
+				"id":7
+			}
+		],
+		"id":2
+		
+	}
+]

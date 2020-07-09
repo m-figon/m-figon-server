@@ -1,0 +1,72 @@
+[
+    {
+      "name": "Deadlift",
+      "sets": "3",
+      "reps": "8",
+      "weight": "120kg",
+      "year": 2020,
+      "month": 5,
+      "day": 2,
+      "id": 0
+    },
+    {
+      "name": "Deadlift",
+      "sets": "3",
+      "reps": "8",
+      "weight": "120kg",
+      "year": 2020,
+      "month": 5,
+      "day": 3,
+      "id": 1
+    },
+    {
+      "name": "Squats",
+      "reps": "12",
+      "sets": "4",
+      "weight": "60",
+      "year": 2020,
+      "month": 5,
+      "day": 3,
+      "id": 2
+    },
+    {
+      "name": "Squats",
+      "reps": "12",
+      "sets": "4",
+      "weight": "60",
+      "year": 2020,
+      "month": 5,
+      "day": 4,
+      "id": 2
+    },
+    {
+      "name": "Pullups",
+      "reps": "9",
+      "sets": "4",
+      "weight": "69.4",
+      "year": 2020,
+      "month": 5,
+      "day": 13,
+      "id": 3
+    },
+    {
+      "name": "test",
+      "reps": "3",
+      "sets": "2",
+      "weight": "70",
+      "year": 2020,
+      "month": 5,
+      "day": 20,
+      "id": 4
+    },
+    {
+      "name": "deadlift",
+      "reps": "12",
+      "sets": "4",
+      "weight": "70kg",
+      "year": 2020,
+      "month": 5,
+      "day": 24,
+      "id": 5
+    }
+  ]

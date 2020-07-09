@@ -1,0 +1,73 @@
+[
+    {
+        "id": 0,
+        "src": "https://sm.ign.com/t/ign_pl/game/h/halo-5/halo-5_sj24.1200.png",
+        "name": "Halo 5: Guardians",
+        "price": "25.99$",
+        "console": "XBOX",
+        "type": "game"
+    },
+    {
+        "id": 1,
+        "src": "https://e.allegroimg.com/s1024/0c0d11/456cfd974cfdaefacad85b1674ce",
+        "name": "Forza Motorsport 7",
+        "price": "23.99$",
+        "console": "XBOX",
+        "type": "game"
+    },
+    {
+        "id": 2,
+        "src": "https://upload.wikimedia.org/wikipedia/commons/4/40/Xbox-360-Pro-wController.jpg",
+        "name": "Xbox 360 Slim White 320GB",
+        "price": "231.99$",
+        "console": "XBOX",
+        "type": "console"
+    },
+    {
+        "id": 2,
+        "src": "https://img.sferis.pl/UUKgtWm/_/100/0/j3T1C1c7r0s091o5H2V2t705g8I2N539/gra-xbox-one-wersja-box-sea-of-thieves.jpg",
+        "name": "Sea of Thieves",
+        "price": "31.99$",
+        "console": "XBOX",
+        "type": "game"
+    },
+    {
+        "id": 3,
+        "src": "https://image.ceneostatic.pl/data/products/39745615/i-gears-of-war-4-gra-xbox-one.jpg",
+        "name": "Gears of War 4",
+        "price": "19.99$",
+        "console": "XBOX",
+        "type": "game"
+    },
+    {
+        "id": 4,
+        "src": "https://image.ceneostatic.pl/data/products/84126060/i-xbox-one-s-1tb-all-digital-edition-forza-horizon-4-minecraft-sea-of-thieves.jpg",
+        "name": "Xbox One S 1TB",
+        "price": "219.99$",
+        "console": "XBOX",
+        "type": "console"
+    },
+    {
+        "id": 5,
+        "src": "https://image.ceneostatic.pl/data/products/28339110/i-rayman-legends-gra-xbox-one.jpg",
+        "name": "Rayman Legends",
+        "price": "25.99$",
+        "console": "XBOX",
+        "type": "game"
+    },
+    {
+        "id": 6,
+        "src": "https://www.gamesmen.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/x/b/xbox_360_s_black_console_pre-owned_1__2.jpg",
+        "name": "Xbox 360 Black 250GB",
+        "price": "225.99$",
+        "console": "XBOX",
+        "type": "console"
+    },
+    {
+        "id": 7,
+        "src": "https://www.mediaexpert.pl/media/cache/gallery/product/2/656/137/195/urjvaxjt/images/19/1966267/GTA-V-Premium-Edition-Gra-Xbox-One-front-skos.jpg",
+        "name": "GTA V",
+        "price": "33.99$",
+        "type": "game"
+    }
+    ]

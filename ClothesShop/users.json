@@ -1,0 +1,29 @@
+[
+	{
+		"email": "slickj@gmail.com",
+		"name": "Mateusz",
+		"surname": "Figon",
+		"password": "hello1",
+		"cart": [],
+		"orders": [],
+		"id": 0
+	},
+	{
+		"email": "batman@gmail.com",
+		"name": "Mateusz",
+		"surname": "Figon",
+		"password": "hello2",
+		"cart": [],
+		"orders": [],
+		"id": 1
+	},
+	{
+		"email": "test@gmail.com",
+		"name": "Mateusz",
+		"surname": "Figon",
+		"password": "test123",
+		"cart": [],
+		"orders": [],
+		"id": 2
+	}
+]

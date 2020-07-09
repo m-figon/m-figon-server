@@ -1,0 +1,20 @@
+[
+	{
+		"email": "slickj@gmail.com",
+		"account": "SlickJoe",
+		"password": "hello1",
+		"id": 0
+	},
+	{
+		"email": "batman@gmail.com",
+		"account": "Gogobatman",
+		"password": "hello2",
+		"id": 1
+	},
+	{
+		"email": "test@gmail.com",
+		"account": "testUser",
+		"password": "test123",
+		"id": 2
+	}
+]

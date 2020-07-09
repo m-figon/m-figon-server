@@ -1,0 +1,34 @@
+[
+    {
+      "id": 0,
+      "name": "GamingArmy"
+    },
+    {
+      "id": 1,
+      "name": "ElMusico"
+    },
+    {
+      "id": 2,
+      "name": "WeLoveCooking"
+    },
+    {
+      "id": 3,
+      "name": "Fitnez"
+    },
+    {
+      "id": 4,
+      "name": "WhyNotGardening"
+    },
+    {
+      "id": 5,
+      "name": "FootballMadness"
+    },
+    {
+      "id": 6,
+      "name": "BooksLovers"
+    },
+    {
+      "id": 7,
+      "name": "AnimalsAreAwesome"
+    }
+  ]

@@ -1,0 +1,75 @@
+[
+    {
+        "id": 0,
+        "src": "https://5.allegroimg.com/s512/015d64/d7bba6c2494485494e9c70c66d35/CALL-OF-DUTY-BLACK-OPS-4-IV-PUDELKO-BOX-PC-NO-CD",
+        "name": "Call of duty black ops",
+        "price": "25.99$",
+        "console": "PC",
+        "type": "game"
+    },
+    {
+        "id": 1,
+        "src": "https://image.ceneostatic.pl/data/products/64180102/i-battlefield-v-gra-pc.jpg",
+        "name": "Battlefield V",
+        "price": "23.99$",
+        "console": "PC",
+        "type": "game"
+    },
+    
+    {
+        "id": 2,
+        "src": "https://www.mediaexpert.pl/media/cache/gallery/product/0/694/800/872/qwpdhvhn/images/17/1777553/GS75_Stealth_8SF_076PL_1.jpg",
+        "name": "MSI GS75 Stealth",
+        "price": "331.99$",
+        "console": "PC",
+        "type": "console"
+    },
+    {
+        "id": 2,
+        "src": "https://artmagames.com/513-large_default/the-sims-4-podstawa-pc-box-pl.jpg",
+        "name": "The Sims 4",
+        "price": "31.99$",
+        "console": "PC",
+        "type": "game"
+    },
+    {
+        "id": 3,
+        "src": "https://gamespot1.cbsistatic.com/uploads/scale_medium/mig/9/8/9/6/2209896-box_tds.png",
+        "name": "Thief Deadly Shadows",
+        "price": "19.99$",
+        "console": "PC",
+        "type": "game"
+    },
+    {
+        "id": 4,
+        "src": "https://image.ceneostatic.pl/data/products/67736340/i-lenovo-legion-y520-i5-7300hq-8gb-gtx1050-256ssd.jpg",
+        "name": "Lenovo Legion Y520",
+        "price": "219.99$",
+        "console": "PC",
+        "type": "console"
+    },
+    {
+        "id": 5,
+        "src": "https://image.ceneostatic.pl/data/products/36052567/i-symulator-kozy-digital.jpg",
+        "name": "Goat simulator",
+        "price": "25.99$",
+        "console": "PC",
+        "type": "game"
+    },
+    {
+        "id": 6,
+        "src": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-new-big,,2019/2/pr_2019_2_11_8_31_17_229_00.jpg",
+        "name": "Acer Predator Triton 500",
+        "price": "325.99$",
+        "console": "PC",
+        "type": "console"
+    },
+    {
+        "id": 7,
+        "src": "https://image.ceneostatic.pl/data/products/21078158/i-euro-truck-simulator-2-digital.jpg",
+        "name": "Euro Truck simulator 2",
+        "price": "33.99$",
+        "console": "PC",
+        "type": "game"
+    }
+    ]

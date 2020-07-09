@@ -1,0 +1,74 @@
+[
+    {
+        "id": 0,
+        "src": "https://vignette.wikia.nocookie.net/diablo/images/6/66/Diablo_III_Eternal_Collection.png/revision/latest/scale-to-width-down/340?cb=20180911140816",
+        "name": "Diablo III",
+        "price": "25.99$",
+        "console": "NINTENDO",
+        "type": "game"
+    },
+    {
+        "id": 1,
+        "src": "https://image.ceneostatic.pl/data/products/49541116/i-nintendo-switch-joy-con-32gb-niebiesko-czerwony.jpg",
+        "name": "Nintendo Switch",
+        "price": "125.99$",
+        "console": "NINTENDO",
+        "type": "console"
+    },
+    {
+        "id": 2,
+        "src": "https://image.ceneostatic.pl/data/products/49566343/i-mario-kart-8-deluxe-gra-ns.jpg",
+        "name": "MarioKart 8 Deluxe",
+        "price": "23.99$",
+        "console": "NINTENDO",
+        "type": "game"
+    },
+    {
+        "id": 3,
+        "src": "https://8.allegroimg.com/s512/112637/3c7eb1774ac698431210ab874588/Pokemon-Let-s-Go-Pikachu-Switch-DIGITAL",
+        "name": "Pokemon Let's go Pikatchu",
+        "price": "31.99$",
+        "console": "NINTENDO",
+        "type": "game"
+    },
+    {
+        "id": 4,
+        "src": "https://images-na.ssl-images-amazon.com/images/I/71WBX13FE2L._SL1500_.jpg",
+        "name": "Wii U",
+        "price": "231.99$",
+        "console": "NINTENDO",
+        "type": "console"
+    },
+    {
+        "id": 5,
+        "src": "https://d.allegroimg.com/s1024/0ca8f6/47fbac804c1387cd6a6518fe083d",
+        "name": "The Legend of Zelda: Breath of the Wild",
+        "price": "19.99$",
+        "console": "NINTENDO",
+        "type": "game"
+    },
+    {
+        "id": 6,
+        "src": "https://nintendosoup.com/wp-content/uploads/2018/06/ssb-ultimate-germany-boxart-noyoshi-1.jpg",
+        "name": "Super Smash Bros Ultimate",
+        "price": "25.99$",
+        "console": "NINTENDO",
+        "type": "game"
+    },
+    {
+        "id": 7,
+        "src": "https://image.ceneostatic.pl/data/products/375569/i-nintendo-wii-family-edition-bialy.jpg",
+        "name": "Wii Family Edition",
+        "price": "225.99$",
+        "console": "NINTENDO",
+        "type": "console"
+    },
+    {
+        "id": 8,
+        "src": "https://a.allegroimg.com/s1024/0cfb20/77a3d46943a68f419205bc8009f0",
+        "name": "Super Mario Odyssey",
+        "price": "33.99$",
+        "console": "NINTENDO",
+        "type": "game"
+    }
+    ]

@@ -1,0 +1,32 @@
+[
+    {
+      "name": "SlickJoe",
+      "mail": "slickj@gmail.com",
+      "password": "hello2",
+      "calories": "2900",
+      "carbs": "55",
+      "fats": "25",
+      "protein": "20",
+      "id": 0
+    },
+    {
+      "name": "test2",
+      "mail": "test@user.com",
+      "password": "Chce.apke5",
+      "calories": "2700",
+      "carbs": "55",
+      "fats": "25",
+      "protein": "20",
+      "id": 1
+    },
+    {
+      "name": "Gogobatman",
+      "mail": "batman@gmail.com",
+      "password": "Chce.apke5",
+      "calories": "2800",
+      "carbs": "50",
+      "fats": "30",
+      "protein": "20",
+      "id": 2
+    }
+  ]

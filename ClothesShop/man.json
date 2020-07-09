@@ -1,0 +1,191 @@
+[
+	{
+		"type": "tops",
+		"content": [
+			{
+				"name": "Black Plain T-Shirt",
+				"price": 20.99,
+				"discount": 0.00,
+				"img": "https://www.bolf.eu/eng_pl_Mens-Plain-T-shirt-Graphite-Bolf-AK999A-72589_1.jpg",
+				"id":0
+			},
+			{
+				"name": "White Plain T-Shirt",
+				"price": 20.99,
+				"discount": 0.00,
+				"img": "https://www.bolf.eu/eng_pl_Mens-Plain-T-shirt-White-Bolf-NB003-76691_1.jpg",
+				"id":1
+			},
+			{
+				"name": "Red Plain T-Shirt",
+				"price": 20.99,
+				"discount": 5.00,
+				"img": "https://static3.denley.pl/pol_pl_T-shirt-meski-bez-nadruku-czerwony-Denley-181227-68878_2.jpg",
+				"id":2
+			},
+			{
+				"name": "Blue Plain T-Shirt",
+				"price": 20.99,
+				"discount": 5.00,
+				"img": "https://www.bolf.eu/eng_pl_Mens-Plain-T-shirt-Denim-Bolf-AK999A-72590_1.jpg",
+				"id":3
+			},
+			{
+				"name": "Gray Plain T-Shirt",
+				"price": 20.99,
+				"discount": 0.00,
+				"img": "https://www.bolf.eu/eng_pl_Grey-Mens-Plain-T-shirt-Bolf-2006-46982_1.jpg",
+				"id":4
+			},
+			{
+				"name": "Green Plain T-Shirt",
+				"price": 20.99,
+				"discount": 0.00,
+				"img": "https://www.bolf.eu//eng_pl_Mens-Plain-T-shirt-Dark-Green-Bolf-AK999A-72587_1.jpg",
+				"id":5
+			},
+			{
+				"name": "Dark Gray Plain T-Shirt",
+				"price": 20.99,
+				"discount": 5.00,
+				"img": "https://www.bolf.eu/eng_pl_Mens-Plain-T-shirt-Graphite-Bolf-NB003-76690_1.jpg",
+				"id":6
+			},
+			{
+				"name": "Light Green Plain T-Shirt",
+				"price": 20.99,
+				"discount": 5.00,
+				"img": "https://www.bolf.eu/eng_pm_Mens-Plain-T-shirt-Green-Bolf-AK999A-72592_1.jpg",
+				"id":7
+			}
+		],
+		"id":0
+		
+	},
+	{
+		"type": "pants",
+		"content": [
+			{
+				"name": "Modern Blue Jeans",
+				"price": 120.99,
+				"discount": 25.00,
+				"img": "https://www.bolf.eu/eng_pm_Mens-Jeans-Slim-Fit-Navy-Blue-Bolf-85006S0-80048_6.jpg",
+				"id":0
+			},
+			{
+				"name": "Black Jeans",
+				"price": 110.99,
+				"discount": 20.00,
+				"img": "https://www.bolf.eu/eng_pl_Mens-Jeans-Straight-Leg-Black-Bolf-KA9977-76336_5.jpg",
+				"id":1
+			},
+			{
+				"name": "Classic Jeans",
+				"price": 90.99,
+				"discount": 0.00,
+				"img": "https://www.bolf.eu/eng_pl_Mens-Jeans-Inky-Bolf-81832-73005_1.jpg",
+				"id":2
+			},
+			{
+				"name": "Classic Jeans With Holes",
+				"price": 120.99,
+				"discount": 0.00,
+				"img": "https://www.bolf.eu/eng_pl_Mens-Jeans-Slim-Fit-Navy-Blue-Bolf-71824-73010_1.jpg",
+				"id":3
+			},
+			{
+				"name": "Bright Black Jeans",
+				"price": 120.99,
+				"discount": 25.00,
+				"img": "https://www.bolf.eu/eng_pl_Mens-Jeans-Regular-Fit-Black-Bolf-4000-78494_5.jpg",
+				"id":4
+			},
+			{
+				"name": "Black Joggers",
+				"price": 110.99,
+				"discount": 20.00,
+				"img": "https://www.bolf.eu/eng_pl_Mens-Jeans-Skinny-Fit-Black-Bolf-KX557-79812_1.jpg",
+				"id":5
+			},
+			{
+				"name": "Black Jeans with Yellow Holes",
+				"price": 90.99,
+				"discount": 0.00,
+				"img": "https://www.bolf.eu/eng_pl_Mens-Jeans-Skinny-Fit-Black-Bolf-KA1869-79811_1.jpg",
+				"id":6
+			},
+			{
+				"name": "Modern Black Jeans",
+				"price": 120.99,
+				"discount": 0.00,
+				"img": "https://www.bolf.eu/eng_pl_Mens-Jeans-Skinny-Fit-Black-Bolf-9239-72786_1.jpg",
+				"id":7
+			}
+		],
+		"id":1
+		
+	},
+	{
+		"type": "sweatshirts",
+		"content": [
+			{
+				"name": "Gray Hoodie",
+				"price": 150.99,
+				"discount": 30.00,
+				"img": "https://www.bolf.eu/eng_pl_Mens-Hoodie-Graphite-Bolf-1004-77866_5.jpg",
+				"id":0
+			},
+			{
+				"name": "Yellow Hoodie",
+				"price": 110.99,
+				"discount": 20.00,
+				"img": "https://www.bolf.eu/eng_pl_Mens-Hoodie-Yellow-Bolf-1004-75604_1.jpg",
+				"id":1
+			},
+			{
+				"name": "Red Hoodie",
+				"price": 190.99,
+				"discount": 30.00,
+				"img": "https://www.bolf.eu/eng_pl_Mens-Hoodie-Red-Bolf-1004-72963_1.jpg",
+				"id":2
+			},
+			{
+				"name": "White Hoodie",
+				"price": 120.99,
+				"discount": 0.00,
+				"img": "https://www.bolf.eu/eng_pl_Mens-Hoodie-White-Bolf-1004-72929_1.jpg",
+				"id":3
+			},
+			{
+				"name": "Pink Hoodie",
+				"price": 150.99,
+				"discount": 30.00,
+				"img": "https://www.bolf.eu/eng_pl_Mens-Hoodie-Light-Pink-Bolf-1004-72925_7.jpg",
+				"id":4
+			},
+			{
+				"name": "Khaki Hoodie",
+				"price": 110.99,
+				"discount": 0.00,
+				"img": "https://www.bolf.eu/eng_pl_Mens-Hoodie-Olive-Bolf-2009-73584_1.jpg",
+				"id":5
+			},
+			{
+				"name": "Orange Hoodie",
+				"price": 190.99,
+				"discount": 0.00,
+				"img": "https://www.bolf.eu/eng_pl_Mens-Hoodie-Orange-Bolf-1004-72922_1.jpg",
+				"id":6
+			},
+			{
+				"name": "Aqua Hoodie",
+				"price": 120.99,
+				"discount": 0.00,
+				"img": "https://www.bolf.eu/eng_pl_Mens-Hoodie-Mint-Bolf-1004-72923_1.jpg",
+				"id":7
+			}
+		],
+		"id":2
+		
+	}
+]
